@@ -1,0 +1,30 @@
+H:\graph\graph\bin\Debug\graph.exe.config
+H:\graph\graph\bin\Debug\graph.exe
+H:\graph\graph\bin\Debug\graph.pdb
+H:\graph\graph\obj\Debug\graph.csprojAssemblyReference.cache
+H:\graph\graph\obj\Debug\graph.Form1.resources
+H:\graph\graph\obj\Debug\graph.Properties.Resources.resources
+H:\graph\graph\obj\Debug\graph.csproj.GenerateResource.cache
+H:\graph\graph\obj\Debug\graph.csproj.CoreCompileInputs.cache
+H:\graph\graph\obj\Debug\graph.exe
+H:\graph\graph\obj\Debug\graph.pdb
+F:\graph\graph\bin\Debug\graph.exe.config
+F:\graph\graph\obj\Debug\graph.exe
+F:\graph\graph\obj\Debug\graph.pdb
+F:\graph\graph\bin\Debug\graph.exe
+F:\graph\graph\bin\Debug\graph.pdb
+F:\graph\graph\obj\Debug\graph.Form1.resources
+F:\graph\graph\obj\Debug\graph.Properties.Resources.resources
+F:\graph\graph\obj\Debug\graph.csproj.GenerateResource.Cache
+F:\graph\graph\obj\Debug\graph.csprojAssemblyReference.cache
+F:\graph\graph\obj\Debug\graph.csproj.CoreCompileInputs.cache
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.csprojAssemblyReference.cache
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.Form1.resources
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.Properties.Resources.resources
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.csproj.GenerateResource.cache
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.csproj.CoreCompileInputs.cache
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.exe
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\obj\Debug\graph.pdb
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\bin\Debug\graph.exe.config
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\bin\Debug\graph.exe
+C:\Users\Dkdkmtc\Google Drive\פרויקטים\graph\graph\bin\Debug\graph.pdb
